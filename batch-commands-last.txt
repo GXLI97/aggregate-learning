@@ -1,0 +1,12 @@
+python3 aggregate_mnist.py 1000 adam 0.01 10 0.3
+python3 aggregate_mnist.py 1000 adam 0.001 10 0.3
+python3 aggregate_mnist.py 1000 adam 0.0001 10 0.3
+python3 aggregate_mnist.py 1000 adam 1e-05 10 0.3
+python3 aggregate_mnist.py 100 adam 0.01 10 0.3
+python3 aggregate_mnist.py 100 adam 0.001 10 0.3
+python3 aggregate_mnist.py 100 adam 0.0001 10 0.3
+python3 aggregate_mnist.py 100 adam 1e-05 10 0.3
+python3 aggregate_mnist.py 10 adam 0.01 10 0.3
+python3 aggregate_mnist.py 10 adam 0.001 10 0.3
+python3 aggregate_mnist.py 10 adam 0.0001 10 0.3
+python3 aggregate_mnist.py 10 adam 1e-05 10 0.3
