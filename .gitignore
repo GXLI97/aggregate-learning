@@ -1,3 +1,10 @@
 *.ipynb
-/figures/*
+/results/*
 __pycache__
+wandb
+.ipynb_checkpoints/*
+*.sh
+batch-commands-last.txt
+sbatch-script-last.txt
+sbatch-*
+plotting.py
