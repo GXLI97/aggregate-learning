@@ -8,3 +8,4 @@ batch-commands-last.txt
 sbatch-script-last.txt
 sbatch-*
 plotting.py
+compute-best-errors.py
